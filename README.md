@@ -1,9 +1,7 @@
 # Go Tutorials
 
 ![Go](https://img.shields.io/badge/Go-1.20-blue.svg?logo=go&longCache=true&style=flat-square)
-
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?longCache=true&style=flat-square)
-
 ![Status](https://img.shields.io/badge/status-draft-red.svg?longCache=true&style=flat-square)
 
 This repository contains a collection of tutorials for the Go programming language.
